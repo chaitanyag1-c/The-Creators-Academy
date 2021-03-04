@@ -17,11 +17,11 @@ const Second = () => {
                     </div>
                     <div className="pb-5 justify-content-center row" id="one" data-aos="fade-in">
                         <div className="mb-4 col-sm-6 col-lg-4">
-                            <h3 className="text-center text-sm-left mb-4">Healthy Means <br className="d-none d-md-block" /><span
-                                className="highlight">Satisfying</span></h3>
-                            <p className="text-justify">Our recipes are loaded with nutrients, fiber, and protein. They're
-          designed to help you feel nourished and satiated. We believe that this is the <span
-                                    className="highlight">real secret to eating well</span>.</p>
+                            <h3 className="text-center text-sm-left mb-4">Fully Expierenced <br className="d-none d-md-block" /><span
+                                className="highlight">Teacher</span></h3>
+                            <p className="text-justify">Our teachers are well experienced in this field
+          and have a expierence in teaching of almost <span
+                                    className="highlight">10-15 years</span>.</p>
                         </div>
                         <div className="text-center col-sm-6 order-sm-first col-lg-5 order-lg-first" data-aos="fade-right">
                             <img
