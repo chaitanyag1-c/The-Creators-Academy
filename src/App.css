@@ -246,6 +246,9 @@ nav {
   font-family: "Heebo", sans-serif;
   font-size: 40px !important;
  }
+   .text{
+   font-size: 60px !important;
+ }
 #one{
   display: none;
 }
